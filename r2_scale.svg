@@ -1,0 +1,49 @@
+<svg width="100%" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: sans-serif; }
+    .th { font-size: 14px; font-weight: 500; fill: #2C2C2A; }
+    .ts { font-size: 12px; font-weight: 400; fill: #5F5E5A; }
+  </style>
+
+  <!-- track -->
+  <rect x="60" y="70" width="560" height="12" rx="6" fill="none" stroke="#B4B2A9" stroke-width="0.5"/>
+
+  <!-- segments -->
+  <rect x="60"  y="70" width="112" height="12" fill="#F09595"/>
+  <rect x="172" y="70" width="112" height="12" fill="#F0997B"/>
+  <rect x="284" y="70" width="112" height="12" fill="#EF9F27"/>
+  <rect x="396" y="70" width="112" height="12" fill="#97C459"/>
+  <rect x="508" y="70" width="112" height="12" rx="6" fill="#1D9E75"/>
+
+  <!-- tick labels -->
+  <text class="ts" x="60"  y="100" text-anchor="middle">-2</text>
+  <text class="ts" x="172" y="100" text-anchor="middle">-1</text>
+  <text class="ts" x="284" y="100" text-anchor="middle">0</text>
+  <text class="ts" x="396" y="100" text-anchor="middle">0.5</text>
+  <text class="ts" x="508" y="100" text-anchor="middle">0.8</text>
+  <text class="ts" x="620" y="100" text-anchor="middle">1.0</text>
+
+  <!-- zone labels -->
+  <text class="ts" x="116" y="56" text-anchor="middle" fill="#A32D2D">worse than</text>
+  <text class="ts" x="116" y="68" text-anchor="middle" fill="#A32D2D">a flat average</text>
+  <text class="ts" x="284" y="56" text-anchor="middle" fill="#5F5E5A">learned</text>
+  <text class="ts" x="284" y="68" text-anchor="middle" fill="#5F5E5A">nothing</text>
+  <text class="ts" x="452" y="56" text-anchor="middle" fill="#3B6D11">decent</text>
+  <text class="ts" x="564" y="56" text-anchor="middle" fill="#0F6E56">good</text>
+  <text class="ts" x="620" y="56" text-anchor="middle" fill="#0F6E56">perfect</text>
+
+  <!-- YOUR MODEL marker -->
+  <line x1="63" y1="62" x2="63" y2="88" stroke="#E24B4A" stroke-width="2"/>
+  <text class="ts" x="63" y="50" text-anchor="middle" fill="#A32D2D">Step 1</text>
+  <text class="ts" x="63" y="38" text-anchor="middle" fill="#A32D2D">-1.99</text>
+
+  <!-- Step 4 marker -->
+  <line x1="460" y1="62" x2="460" y2="88" stroke="#3B6D11" stroke-width="2"/>
+  <text class="ts" x="460" y="50" text-anchor="middle" fill="#3B6D11">Step 4</text>
+  <text class="ts" x="460" y="38" text-anchor="middle" fill="#3B6D11">0.807</text>
+
+  <!-- target marker -->
+  <line x1="508" y1="62" x2="508" y2="88" stroke="#0F6E56" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text class="ts" x="508" y="130" text-anchor="middle" fill="#0F6E56">target</text>
+  <text class="ts" x="508" y="143" text-anchor="middle" fill="#0F6E56">after Step 5</text>
+</svg>

@@ -1,0 +1,79 @@
+sheet,tech,name,2024,2030,2035,2040,mineral
+3.1 Cleantech demand by tech,Chromium,Wind,66.1,96.34,87.22,74.76,
+3.1 Cleantech demand by tech,Chromium,Other low emissions power generation,175.22,253.36,211.94,258.76,
+3.1 Cleantech demand by tech,Copper,Solar PV,1657.2,2373.69,2242.63,2230.22,
+3.1 Cleantech demand by tech,Copper,Wind,534.24,809.78,769.77,622.77,
+3.1 Cleantech demand by tech,Copper,Other low emissions power generation,75.7,118.81,81.48,85.52,
+3.1 Cleantech demand by tech,Copper,Electric vehicles,496.69,1597.1,2465.46,2995.49,
+3.1 Cleantech demand by tech,Copper,Grid battery storage,76.26,215.27,294.86,448.96,
+3.1 Cleantech demand by tech,Copper,Electricity networks,4928.99,5824.52,5686.4,5744.77,
+3.1 Cleantech demand by tech,Copper,Hydrogen technologies,0.0,0.01,0.01,0.01,
+3.1 Cleantech demand by tech,Cobalt,Low emissions power generation,0.02,0.03,0.01,0.02,
+3.1 Cleantech demand by tech,Cobalt,Electric vehicles,66.51,143.15,142.72,135.81,
+3.1 Cleantech demand by tech,Cobalt,Grid battery storage,4.06,5.06,3.7,0.0,
+3.1 Cleantech demand by tech,Cobalt,Hydrogen technologies,0.0,0.0,0.0,0.0,
+3.1 Cleantech demand by tech,Battery-grade graphite,Electric vehicles,838.95,2590.96,3478.11,3325.78,
+3.1 Cleantech demand by tech,Battery-grade graphite,Grid battery storage,163.56,371.7,464.76,637.54,
+3.1 Cleantech demand by tech,Lithium,Electric vehicles,109.03,326.09,537.6,738.67,
+3.1 Cleantech demand by tech,Lithium,Grid battery storage,18.98,42.63,51.38,70.04,
+3.1 Cleantech demand by tech,Manganese,Wind,104.8,152.12,136.47,116.98,
+3.1 Cleantech demand by tech,Manganese,Other low emissions power generation,16.64,24.32,28.72,34.78,
+3.1 Cleantech demand by tech,Manganese,Electric vehicles,60.34,356.47,928.42,1715.61,
+3.1 Cleantech demand by tech,Manganese,Grid battery storage,4.25,68.85,133.05,260.06,
+3.1 Cleantech demand by tech,Molybdenum,Solar PV,0.37,0.56,0.54,0.55,
+3.1 Cleantech demand by tech,Molybdenum,Wind,13.83,20.14,18.21,15.61,
+3.1 Cleantech demand by tech,Molybdenum,Other low emissions power generation,19.64,26.8,21.52,27.29,
+3.1 Cleantech demand by tech,Nickel,Solar PV,0.62,0.88,0.83,0.83,
+3.1 Cleantech demand by tech,Nickel,Wind,47.45,67.84,59.48,51.63,
+3.1 Cleantech demand by tech,Nickel,Other low emissions power generation,174.14,248.69,218.03,292.59,
+3.1 Cleantech demand by tech,Nickel,Electric vehicles,321.14,959.08,1558.79,1843.3,
+3.1 Cleantech demand by tech,Nickel,Grid battery storage,16.97,68.04,110.79,188.62,
+3.1 Cleantech demand by tech,Nickel,Hydrogen technologies,1.4,4.71,5.19,4.09,
+3.1 Cleantech demand by tech,PGMs,Hydrogen technologies,0.0,0.01,0.01,0.02,
+3.1 Cleantech demand by tech,Silicon,Solar PV,1480.78,1652.11,1488.45,1426.41,
+3.1 Cleantech demand by tech,Silicon,Electric vehicles,18.55,105.68,276.71,404.74,
+3.1 Cleantech demand by tech,Silicon,Grid battery storage,0.52,3.96,6.56,12.12,
+3.1 Cleantech demand by tech,Silver,Solar PV,8.98,10.48,8.23,6.5,
+3.1 Cleantech demand by tech,Silver,Other low emissions power generation,0.02,0.04,0.06,0.06,
+3.1 Cleantech demand by tech,Zinc,Solar PV,15.03,21.27,20.24,20.25,
+3.1 Cleantech demand by tech,Zinc,Wind,734.75,1065.92,955.13,818.7,
+3.1 Cleantech demand by tech,Zinc,Other low emissions power generation,14.23,19.12,15.14,16.93,
+3.1 Cleantech demand by tech,Neodymium,Wind,8.0,12.27,12.19,9.57,
+3.1 Cleantech demand by tech,Neodymium,Electric vehicles,6.57,17.06,23.64,26.7,
+3.2 Cleantech demand by mineral,,Boron,0.23,0.37,0.39,0.31,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Cadmium,0.95,0.97,0.92,0.92,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Chromium,241.32,349.7,299.16,333.51,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Copper,7737.02,10909.95,11539.62,12162.36,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Cobalt,70.59,148.24,146.44,135.83,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Gallium,0.02,0.23,1.07,5.83,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Germanium,0.02,0.02,0.02,0.01,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Battery-grade graphite,1002.51,2962.66,3942.87,3963.32,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Hafnium,0.01,0.01,0.01,0.01,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Indium,0.1,0.15,0.14,0.2,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Iridium,0.0,0.0,0.0,0.0,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Lead,13.61,18.61,13.39,14.0,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Lithium,128.0,368.73,588.98,808.71,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Magnesium,4.15,5.86,9.21,10.76,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Manganese,186.04,601.77,1226.67,2127.43,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Molybdenum,33.83,47.5,40.27,43.45,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Nickel,561.72,1349.25,1953.11,2381.06,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Niobium,0.27,0.4,0.57,0.73,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,PGMs (other than iridum),0.0,0.01,0.01,0.02,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Selenium,0.18,0.21,0.18,0.16,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Silicon,1499.85,1761.75,1771.72,1843.28,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Silver,9.0,10.51,8.29,6.57,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Tantalum,0.1,0.13,0.12,0.17,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Tellurium,0.97,0.95,0.87,0.82,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Tin,3.04,4.34,4.1,4.09,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Titanium,5.88,9.2,5.79,7.78,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Tungsten,0.07,0.13,0.1,0.08,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Vanadium,0.01,26.91,181.18,381.71,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Zinc,764.01,1106.31,990.51,855.88,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Zirconium,0.6,1.43,1.3,1.05,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Arsenic,0.0,0.49,2.6,14.55,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Neodymium,14.57,29.34,35.83,36.27,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Dysprosium,1.53,2.99,3.58,3.62,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Praseodymium,2.32,4.69,5.75,5.74,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Terbium,0.43,0.83,0.99,0.96,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Yttrium,0.01,0.01,0.01,0.01,Mineral demand for clean energy technologies - by mineral (kt)
+3.2 Cleantech demand by mineral,,Lanthanum,0.0,0.01,0.0,0.0,Mineral demand for clean energy technologies - by mineral (kt)

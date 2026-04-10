@@ -1,0 +1,111 @@
+technology,mineral,2024,2030,2035,2040
+Solar PV,Cadmium,0.93,0.94,0.9,0.9
+Solar PV,Copper,1657.2,2373.69,2242.63,2230.22
+Solar PV,Gallium,0.02,0.23,1.07,5.83
+Solar PV,Germanium,0.02,0.02,0.02,0.01
+Solar PV,Indium,0.08,0.11,0.11,0.17
+Solar PV,Lead,2.88,4.06,3.85,3.83
+Solar PV,Molybdenum,0.37,0.56,0.54,0.55
+Solar PV,Nickel,0.62,0.88,0.83,0.83
+Solar PV,Selenium,0.18,0.21,0.18,0.16
+Solar PV,Silicon,1480.78,1652.11,1488.45,1426.41
+Solar PV,Silver,8.98,10.48,8.23,6.5
+Solar PV,Tellurium,0.97,0.95,0.87,0.82
+Solar PV,Tin,2.98,4.22,4.01,4.02
+Solar PV,Zinc,15.03,21.27,20.24,20.25
+Solar PV,Arsenic,0.0,0.49,2.6,14.55
+Solar PV,Cadmium,1.41,2.66,3.13,3.82
+Solar PV,Copper,1657.26,2373.9,2242.86,2230.51
+Solar PV,Gallium,0.04,0.28,1.13,5.91
+Solar PV,Germanium,0.04,0.06,0.04,0.04
+Solar PV,Indium,0.14,0.28,0.33,0.46
+Solar PV,Lead,2.82,3.7,3.35,3.12
+Solar PV,Molybdenum,0.63,1.48,1.75,2.2
+Solar PV,Nickel,0.61,0.8,0.73,0.67
+Solar PV,Selenium,0.31,0.54,0.58,0.65
+Solar PV,Silicon,1434.03,1474.1,1247.05,1091.38
+Solar PV,Silver,8.69,9.29,6.86,4.95
+Solar PV,Tellurium,1.46,2.67,3.01,3.49
+Solar PV,Tin,2.98,4.22,4.01,4.02
+Solar PV,Zinc,15.03,21.27,20.24,20.25
+Solar PV,Arsenic,0.0,0.49,2.6,14.55
+Solar PV,Cadmium,0.92,0.88,0.83,0.83
+Solar PV,Copper,1657.2,2373.69,2242.62,2230.21
+Solar PV,Gallium,1.64,7.32,9.09,13.08
+Solar PV,Germanium,0.03,0.03,0.03,0.03
+Solar PV,Indium,0.12,0.23,0.22,0.25
+Solar PV,Lead,2.88,4.07,3.86,3.85
+Solar PV,Molybdenum,0.46,0.72,0.56,0.47
+Solar PV,Nickel,0.62,0.88,0.84,0.83
+Solar PV,Selenium,0.23,0.26,0.19,0.14
+Solar PV,Silicon,1485.66,1699.39,1549.77,1485.85
+Solar PV,Silver,8.95,10.46,8.25,6.54
+Solar PV,Tellurium,0.95,0.89,0.8,0.76
+Solar PV,Tin,2.98,4.22,4.01,4.02
+Solar PV,Zinc,15.03,21.27,20.24,20.25
+Solar PV,Arsenic,4.03,18.23,22.7,32.71
+Solar PV,Cadmium,0.93,0.94,0.9,0.9
+Solar PV,Copper,1657.23,2373.8,2242.73,2230.32
+Solar PV,Gallium,0.03,0.25,1.08,5.84
+Solar PV,Germanium,0.04,0.06,0.09,0.15
+Solar PV,Indium,0.11,0.2,0.17,0.21
+Solar PV,Lead,2.88,4.64,4.84,5.6
+Solar PV,Molybdenum,0.5,1.05,0.86,0.75
+Solar PV,Nickel,0.62,0.88,0.83,0.83
+Solar PV,Selenium,0.25,0.38,0.29,0.22
+Solar PV,Silicon,1472.98,1611.93,1437.3,1332.44
+Solar PV,Silver,8.93,10.33,8.12,6.4
+Solar PV,Tellurium,0.97,0.95,0.87,0.82
+Solar PV,Tin,2.98,4.22,4.01,4.02
+Solar PV,Zinc,15.03,21.27,20.24,20.25
+Solar PV,Arsenic,0.0,0.49,2.6,14.55
+Wind,Boron,0.23,0.37,0.39,0.31
+Wind,Chromium,66.1,96.34,87.22,74.76
+Wind,Copper,534.24,809.78,769.77,622.77
+Wind,Manganese,104.8,152.12,136.47,116.98
+Wind,Molybdenum,13.83,20.14,18.21,15.61
+Wind,Nickel,47.45,67.84,59.48,51.63
+Wind,Zinc,734.75,1065.92,955.13,818.7
+Wind,Neodymium,8.0,12.27,12.19,9.57
+Wind,Dysprosium,0.86,1.3,1.26,1.01
+Wind,Praseodymium,1.34,2.13,2.2,1.73
+Wind,Terbium,0.3,0.48,0.5,0.4
+Wind,Boron,0.19,0.24,0.24,0.17
+Wind,Chromium,66.17,96.65,87.39,74.6
+Wind,Copper,539.84,823.12,771.02,625.65
+Wind,Manganese,104.81,152.18,136.5,116.95
+Wind,Molybdenum,13.84,20.2,18.24,15.58
+Wind,Nickel,47.77,69.45,61.95,53.88
+Wind,Zinc,734.75,1065.92,955.13,818.7
+Wind,Neodymium,7.11,9.08,8.66,6.23
+Wind,Dysprosium,0.79,1.05,0.99,0.74
+Wind,Praseodymium,1.17,1.5,1.47,1.04
+Wind,Terbium,0.29,0.43,0.41,0.32
+EV,Copper,496.69,1597.1,2465.46,2995.49
+EV,Cobalt,66.51,143.15,142.72,135.81
+EV,Battery-grade graphite,838.95,2590.96,3478.11,3325.78
+EV,Lithium,109.03,326.09,537.6,738.67
+EV,Manganese,60.34,356.47,928.42,1715.61
+EV,Nickel,321.14,959.08,1558.79,1843.3
+EV,Silicon,18.55,105.68,276.71,404.74
+EV,Neodymium,6.57,17.06,23.64,26.7
+EV,Dysprosium,0.67,1.69,2.32,2.61
+EV,Praseodymium,0.98,2.56,3.55,4.0
+EV,Terbium,0.13,0.35,0.49,0.55
+Battery storage,Copper,76.26,215.27,294.86,448.96
+Battery storage,Cobalt,4.06,5.06,3.7,0.0
+Battery storage,Battery-grade graphite,163.56,371.7,464.76,637.54
+Battery storage,Lithium,18.98,42.63,51.38,70.04
+Battery storage,Manganese,4.25,68.85,133.05,260.06
+Battery storage,Nickel,16.97,68.04,110.79,188.62
+Battery storage,Silicon,0.52,3.96,6.56,12.12
+Battery storage,Vanadium,0.0,26.89,181.16,381.7
+Electricity networks,Copper,4928.99,5824.52,5686.4,5744.77
+Electricity networks,Copper,4736.96,5994.38,5559.79,5241.86
+Hydrogen,Copper,0.0,0.01,0.01,0.01
+Hydrogen,Cobalt,0.0,0.0,0.0,0.0
+Hydrogen,Iridium,0.0,0.0,0.0,0.0
+Hydrogen,Nickel,1.4,4.71,5.19,4.09
+Hydrogen,PGMs (other than iridum),0.0,0.01,0.01,0.02
+Hydrogen,Zirconium,0.19,0.64,0.71,0.56
+Hydrogen,Yttrium,0.0,0.0,0.0,0.0

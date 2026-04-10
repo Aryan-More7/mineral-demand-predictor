@@ -1,0 +1,93 @@
+mineral,technology,year,demand
+Cobalt,Electric vehicles,2024,66.5
+Cobalt,Electric vehicles,2030,143.1
+Cobalt,Electric vehicles,2035,142.7
+Cobalt,Electric vehicles,2040,135.8
+Cobalt,Grid battery storage,2024,4.1
+Cobalt,Grid battery storage,2030,5.1
+Cobalt,Grid battery storage,2035,3.7
+Cobalt,Grid battery storage,2040,0.0
+Cobalt,Hydrogen technologies,2024,0.0
+Cobalt,Hydrogen technologies,2030,0.0
+Cobalt,Hydrogen technologies,2035,0.0
+Cobalt,Hydrogen technologies,2040,0.0
+Cobalt,Low emissions power generation,2024,0.0
+Cobalt,Low emissions power generation,2030,0.0
+Cobalt,Low emissions power generation,2035,0.0
+Cobalt,Low emissions power generation,2040,0.0
+Copper,Electric vehicles,2024,496.7
+Copper,Electric vehicles,2030,1597.1
+Copper,Electric vehicles,2035,2465.5
+Copper,Electric vehicles,2040,2995.5
+Copper,Electricity networks,2024,4929.0
+Copper,Electricity networks,2030,5824.5
+Copper,Electricity networks,2035,5686.4
+Copper,Electricity networks,2040,5744.8
+Copper,Grid battery storage,2024,76.3
+Copper,Grid battery storage,2030,215.3
+Copper,Grid battery storage,2035,294.9
+Copper,Grid battery storage,2040,449.0
+Copper,Hydrogen technologies,2024,0.0
+Copper,Hydrogen technologies,2030,0.0
+Copper,Hydrogen technologies,2035,0.0
+Copper,Hydrogen technologies,2040,0.0
+Copper,Other low emissions power generation,2024,75.7
+Copper,Other low emissions power generation,2030,118.8
+Copper,Other low emissions power generation,2035,81.5
+Copper,Other low emissions power generation,2040,85.5
+Copper,Solar PV,2024,1657.2
+Copper,Solar PV,2030,2373.7
+Copper,Solar PV,2035,2242.6
+Copper,Solar PV,2040,2230.2
+Copper,Wind,2024,534.2
+Copper,Wind,2030,809.8
+Copper,Wind,2035,769.8
+Copper,Wind,2040,622.8
+Lithium,Electric vehicles,2024,109.0
+Lithium,Electric vehicles,2030,326.1
+Lithium,Electric vehicles,2035,537.6
+Lithium,Electric vehicles,2040,738.7
+Lithium,Grid battery storage,2024,19.0
+Lithium,Grid battery storage,2030,42.6
+Lithium,Grid battery storage,2035,51.4
+Lithium,Grid battery storage,2040,70.0
+Magnet rare earth elements,Electric vehicles,2024,8.4
+Magnet rare earth elements,Electric vehicles,2024,1259.6
+Magnet rare earth elements,Electric vehicles,2030,21.7
+Magnet rare earth elements,Electric vehicles,2030,3597.8
+Magnet rare earth elements,Electric vehicles,2035,30.0
+Magnet rare earth elements,Electric vehicles,2035,4969.9
+Magnet rare earth elements,Electric vehicles,2040,33.9
+Magnet rare earth elements,Electric vehicles,2040,4783.5
+Magnet rare earth elements,Grid battery storage,2024,245.6
+Magnet rare earth elements,Grid battery storage,2030,516.2
+Magnet rare earth elements,Grid battery storage,2035,664.1
+Magnet rare earth elements,Grid battery storage,2040,917.0
+Magnet rare earth elements,Wind,2024,10.5
+Magnet rare earth elements,Wind,2030,16.2
+Magnet rare earth elements,Wind,2035,16.1
+Magnet rare earth elements,Wind,2040,12.7
+Nickel,Electric vehicles,2024,321.1
+Nickel,Electric vehicles,2030,959.1
+Nickel,Electric vehicles,2035,1558.8
+Nickel,Electric vehicles,2040,1843.3
+Nickel,Grid battery storage,2024,17.0
+Nickel,Grid battery storage,2030,68.0
+Nickel,Grid battery storage,2035,110.8
+Nickel,Grid battery storage,2040,188.6
+Nickel,Hydrogen technologies,2024,1.4
+Nickel,Hydrogen technologies,2030,4.7
+Nickel,Hydrogen technologies,2035,5.2
+Nickel,Hydrogen technologies,2040,4.1
+Nickel,Other low emissions power generation,2024,174.1
+Nickel,Other low emissions power generation,2030,248.7
+Nickel,Other low emissions power generation,2035,218.0
+Nickel,Other low emissions power generation,2040,292.6
+Nickel,Solar PV,2024,0.6
+Nickel,Solar PV,2030,0.9
+Nickel,Solar PV,2035,0.8
+Nickel,Solar PV,2040,0.8
+Nickel,Wind,2024,47.5
+Nickel,Wind,2030,67.8
+Nickel,Wind,2035,59.5
+Nickel,Wind,2040,51.6
